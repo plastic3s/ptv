@@ -25,7 +25,7 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
 
-#EXTINF:-1 tvg-ID="Fox.Asia" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="IDTV",Fox HD
+#EXTINF:-1 tvg-ID="Fox.Asia" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="IDTV",Fox
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-ID="FXL.Asia" tvg-logo="https://i.imgur.com/WY2deTP.png" group-title="IDTV",Fox Life
