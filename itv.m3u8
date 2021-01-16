@@ -171,10 +171,10 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd
 
-#EXTINF:-1 tvg-ID="CIN.Asia" tvg-logo="" group-title="IDTV",Cinemax HD
+#EXTINF:-1 tvg-ID="CIN.Asia" tvg-logo="" group-title="IDTV",NHK
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/Premiere/sa_dash_vmx/Premiere.mpd
+https://liveanevia.mncnow.id/live/eds/NHKWorld/sa_dash_vmx/NHKWorld.mpd
 
 #EXTINF:-1 tvg-ID="KIX.Asia" tvg-logo="" group-title="IDTV",Kix
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
