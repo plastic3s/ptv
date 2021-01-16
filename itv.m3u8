@@ -174,7 +174,7 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd
 #EXTINF:-1 tvg-ID="CIN.Asia" tvg-logo="" group-title="IDTV",Cinemax HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/CINEMAX/sa_dash_vmx/CINEMAX.mpd
+https://liveanevia.mncnow.id/live/eds/Premiere/sa_dash_vmx/Premiere.mpd
 
 #EXTINF:-1 tvg-ID="KIX.Asia" tvg-logo="" group-title="IDTV",Kix
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
