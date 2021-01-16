@@ -176,15 +176,15 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/FX/sa_dash_vmx/FX.mpd
 
-#EXTINF:-1 tvg-ID="CIN.Asia" tvg-logo="" group-title="IDTV",Cinemax
+#EXTINF:-1 tvg-ID="CIN.Asia" tvg-logo="" group-title="IDTV",Cinemax HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_dash_vmx/CinemaxHD.mpd
 
-#EXTINF:-1 tvg-ID="NHK.Jp" tvg-logo="" group-title="IDTV",NHK World
+#EXTINF:-1 tvg-ID="NHK.Jp" tvg-logo="" group-title="IDTV",NHKWorldTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/NHKWorld/sa_dash_vmx/NHKWorld.mpd
+https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 #EXTINF:-1 tvg-ID="KIX.Asia" tvg-logo="" group-title="IDTV",Kix
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
