@@ -1,0 +1,56 @@
+
+- Install iterm2
+
+brew install --cask iterm2
+
+- Download power line fonts 
+
+- clone
+git clone https://github.com/powerline/fonts.git --depth=1
+- install
+cd fonts
+./install.sh
+- clean-up a bit
+cd ..
+rm -rf fonts
+
+- Install oh my zsh
+
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+- Reapply composer path in .zshrc 
+echo 'export PATH="$HOME/.composer/vendor/bin:$PATH"' >> /Users/plastic3s/.zshrc
+source ~/.zshrc
+
+- Download material-design-color color scheme for iterm2 && bullet-train theme for oh-my-zsh
+
+cd Downloads
+curl -O https://raw.githubusercontent.com/caiogondim/bullet-train.zsh/master/bullet-train.zsh-theme
+cp bullet-train.zsh-theme $ZSH_CUSTOM/themes/bullet-train.zsh-theme
+-open .zshrc in text editor and modify line ZSH_THEME="bullet-train"
+open -e ~/.zshrc
+
+curl -O https://raw.githubusercontent.com/MartinSeeler/iterm2-material-design/master/material-design-colors.itermcolors
+- restart term
+
+- iterm2 preference setting
+- Set working directory (the directory your terminal will open when you launch a new shell) to “Reuse previous session’s directory” under Preferences -> Profiles -> General -> Working Directory
+- Change colors to whatever you like. I like Martin Seeler’s iTerm2 iterm2-material-design package. Choose the downloaded material-design-colors color options under Preferences -> Profiles -> Colors -> Color Presets and -> Import 
+- Under Preferences -> Profiles -> Text set the font and font size you’d like for the font you installed in the previous step. I use DejaVu Sans Mono for Powerline
+
+
+- Enabling Oh-My-Zsh Plugins (zsh-autosuggestions & zsh-syntax-highlighting)
+
+- Download zsh-autosuggestions by
+git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
+
+- Download zsh-syntax-highlighting by
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
+open -e ~/.zshrc 
+
+- find plugins=(git) and append zsh-autosuggestions & zsh-syntax-highlighting to plugins() like this
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
+
+
+
+
