@@ -40,3 +40,7 @@ sudo service apache2 restart
 ===============================================================
 
 sqlcmd -S 172.27.160.1 -U sa -P P@55w0rd -Q 'select @@version'
+
+
+https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/configure-a-windows-firewall-for-database-engine-access?view=sql-server-ver15
+https://knowledgebase.apexsql.com/configure-remote-access-connect-remote-sql-server-instance-apexsql-tools/
