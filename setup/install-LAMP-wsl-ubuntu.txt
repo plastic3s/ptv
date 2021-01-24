@@ -111,3 +111,6 @@ create database project1
 php artisan migrate
 npm install
 npm run dev
+
+php artisan vendor:publish --tag=jetstream-views
+php artisan serve
