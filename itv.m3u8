@@ -245,7 +245,7 @@ https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternatio
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
-#EXTINF:-1 tvg-ID="Bloomberg" tvg-logo="https://www.conviva.com/wp-content/uploads/2019/12/Bloomberg-logo-.png" group-title="IDTV",Bloomberg
+#EXTINF:-1 tvg-ID="Bloomberg" tvg-logo="https://static.epg.best/za/Bloomberg.za.png" group-title="IDTV",Bloomberg
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
