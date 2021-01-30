@@ -5,17 +5,17 @@
 #EXTINF:-1 tvg-ID="AXN HD" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="IDTV", AXN HD
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-#EXTINF:-1 tvg-ID="WarnerTV" tvg-logo="https://static.epg.best/id/WarnerTV.id.png" group-title="IDTV",WarnerTV
+#EXTINF:-1 tvg-ID="WarnerTV" tvg-logo="https://static.epg.best/id/WarnerTV.id.png" group-title="IDTV",Warner TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
-#EXTINF:-1 tvg-ID="FOXCrime" tvg-logo="https://static.epg.best/id/FOXCrime.id.png" group-title="IDTV", Fox Crime
+#EXTINF:-1 tvg-ID="FOXCrime" tvg-logo="https://static.epg.best/id/FOXCrime.id.png" group-title="IDTV",Fox Crime
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
 
-#EXTINF:-1 tvg-id=""FOX HD" tvg-logo="https://static.epg.best/id/FOX.id.png" group-title="IDTV",Fox
+#EXTINF:-1 tvg-id=""FOX HD" tvg-logo="https://static.epg.best/id/FOX.id.png" group-title="IDTV",FOX HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
@@ -189,7 +189,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-ID="HBO Family HD" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="IDTV",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-ID="Hbh.Asia" tvg-logo="https://i.imgur.com/dfHHWYX.png" group-title="IDTV",HBO Hits
+#EXTINF:-1 tvg-ID="HBO Hits HD" tvg-logo="https://i.imgur.com/dfHHWYX.png" group-title="IDTV",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
@@ -230,7 +230,7 @@ https://liveanevia.mncnow.id/live/eds/FOXSports/sa_dash_vmx/FOXSports.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd
 
-#EXTINF:-1 tvg-ID="FOX Sports 3" tvg-logo="https://static.epg.best/mx/FoxSports3.mx.png" group-title="IDTV",Fox Sports 3
+#EXTINF:-1 tvg-ID="FOX Sports 3 HD" tvg-logo="https://static.epg.best/mx/FoxSports3.mx.png" group-title="IDTV",Fox Sports 3 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
