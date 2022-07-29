@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/mytv.xml" refresh="1440" max-conn="1" refresh="24"
-        x-tvg-url="http://rtm.samsam123.tk/rtmklik.xml" url-tvg="http://rtm.samsam123.tk/rtmklik.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="http://rtm.samsam123.tk/rtmklik.xml" url-tvg="http://rtm.samsam123.tk/rtmklik.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 group-title="RTM" ch-number="RTMK01" tvg-id="RTMK01" tvg-chno="RTMK01" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV1.jpg",TV1 [MPEG-DASH]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
